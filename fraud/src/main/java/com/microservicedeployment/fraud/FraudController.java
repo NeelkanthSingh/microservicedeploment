@@ -1,5 +1,6 @@
 package com.microservicedeployment.fraud;
 
+import com.microservicedeployment.clients.fraud.FraudCheckResponse;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
