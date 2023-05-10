@@ -1,4 +1,4 @@
-package com.amigoscode.customer;
+package com.microservicedeployment.customer;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
